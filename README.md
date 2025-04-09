@@ -12,7 +12,7 @@
 
 -1° Emprego
 
--2° Aprender Python e NoSQL
+-2° Conhecimento em Python
 
 -3° Melhorar meu portfólio com cursos e projetos pessoais.
 
